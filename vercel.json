@@ -1,5 +1,5 @@
 {
-    "routes": [
+    "rewrites": [
       { "src": "/db/TDSWikiFetcher.js", "dest": "/TDSWikiFetcher.js" },
       { "src": "/db/TDSWikiLoader.js", "dest": "/TDSWikiLoader.js" },
       { "src": "/db/TDSWikiUploader.js", "dest": "/TDSWikiUploader.js" },
